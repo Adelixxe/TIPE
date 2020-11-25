@@ -1,8 +1,5 @@
-#import numpy as np
-#import matplotlib.pyplot as plot
-
-
-
+import numpy as np
+import matplotlib.pyplot as plot
 
 #_______________________________________________
 long=larg=haut=30 #Dimensions bac 30x30x30 (mm)
